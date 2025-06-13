@@ -1,0 +1,17 @@
+C:\CACrypt\TwoFishCrypto\bin\Release\net6.0-windows\TwoFishCrypto.exe
+C:\CACrypt\TwoFishCrypto\bin\Release\net6.0-windows\TwoFishCrypto.deps.json
+C:\CACrypt\TwoFishCrypto\bin\Release\net6.0-windows\TwoFishCrypto.runtimeconfig.json
+C:\CACrypt\TwoFishCrypto\bin\Release\net6.0-windows\TwoFishCrypto.dll
+C:\CACrypt\TwoFishCrypto\bin\Release\net6.0-windows\TwoFishCrypto.pdb
+C:\CACrypt\TwoFishCrypto\bin\Release\net6.0-windows\BouncyCastle.Cryptography.dll
+C:\CACrypt\TwoFishCrypto\obj\Release\net6.0-windows\TwoFishCrypto.csproj.AssemblyReference.cache
+C:\CACrypt\TwoFishCrypto\obj\Release\net6.0-windows\TwoFishCrypto.GeneratedMSBuildEditorConfig.editorconfig
+C:\CACrypt\TwoFishCrypto\obj\Release\net6.0-windows\TwoFishCrypto.AssemblyInfoInputs.cache
+C:\CACrypt\TwoFishCrypto\obj\Release\net6.0-windows\TwoFishCrypto.AssemblyInfo.cs
+C:\CACrypt\TwoFishCrypto\obj\Release\net6.0-windows\TwoFishCrypto.csproj.CoreCompileInputs.cache
+C:\CACrypt\TwoFishCrypto\obj\Release\net6.0-windows\TwoFishC.B8728C06.Up2Date
+C:\CACrypt\TwoFishCrypto\obj\Release\net6.0-windows\TwoFishCrypto.dll
+C:\CACrypt\TwoFishCrypto\obj\Release\net6.0-windows\refint\TwoFishCrypto.dll
+C:\CACrypt\TwoFishCrypto\obj\Release\net6.0-windows\TwoFishCrypto.pdb
+C:\CACrypt\TwoFishCrypto\obj\Release\net6.0-windows\TwoFishCrypto.genruntimeconfig.cache
+C:\CACrypt\TwoFishCrypto\obj\Release\net6.0-windows\ref\TwoFishCrypto.dll

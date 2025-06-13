@@ -1,0 +1,41 @@
+{
+  "version": 2,
+  "dgSpecHash": "W6jHn9SeEXM=",
+  "success": true,
+  "projectFilePath": "C:\\CACrypt\\TwoFishCrypto\\TwoFishCrypto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Olivio\\.nuget\\packages\\bouncycastle.cryptography\\2.3.0\\bouncycastle.cryptography.2.3.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'BouncyCastle.Cryptography' 2.3.0 tem uma moderado vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-8xfc-gm6g-vgpv",
+      "libraryId": "BouncyCastle.Cryptography",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'BouncyCastle.Cryptography' 2.3.0 tem uma moderado vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-m44j-cfrm-g8qc",
+      "libraryId": "BouncyCastle.Cryptography",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'BouncyCastle.Cryptography' 2.3.0 tem uma moderado vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-v435-xc8x-wvr9",
+      "libraryId": "BouncyCastle.Cryptography",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
+}

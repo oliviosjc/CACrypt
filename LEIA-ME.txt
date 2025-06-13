@@ -1,0 +1,38 @@
+TwoFish Crypto - Instruções de Instalação
+=========================================
+
+Desenvolvido por: Olívio Rodrigues
+Versão: 1.0
+
+INSTRUÇÕES DE INSTALAÇÃO:
+------------------------
+1. Execute o arquivo: TwoFishCrypto-Setup-v1.0.exe
+2. Siga as instruções do instalador
+3. O programa será instalado em C:\Program Files\TwoFishCrypto
+
+REQUISITOS:
+-----------
+- Windows 10 ou 11 (64-bits)
+- Não requer instalação do .NET (já incluído)
+
+COMO USAR:
+----------
+1. Abra o TwoFish Crypto pelo Menu Iniciar ou Área de Trabalho
+2. Selecione um arquivo .txt para encriptar/decriptar
+3. Use as chaves fornecidas ou crie suas próprias
+4. Clique em Encriptar ou Decriptar
+
+OBSERVAÇÕES:
+------------
+- Apenas arquivos .txt são aceitos
+- Guarde bem suas chaves de encriptação
+- Arquivos encriptados terão o sufixo "_encrypted"
+
+SUPORTE:
+--------
+Em caso de dúvidas, entre em contato com o desenvolvedor.
+
+AVISO DE SEGURANÇA:
+------------------
+Este software foi desenvolvido para fins educacionais e de proteção de dados pessoais.
+Use com responsabilidade.
